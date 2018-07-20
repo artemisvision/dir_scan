@@ -1,0 +1,14 @@
+[package]
+name = "dir_scan"
+version = "0.1.0"
+authors = ["Eric Huff <thegreaterici@gmail.com>"]
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+libc = "*"
+
+[build-dependencies]
+cbindgen = "0.6.0"
+
