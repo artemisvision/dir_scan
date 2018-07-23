@@ -10,3 +10,19 @@ Cargo.lock
 **/*.rs.bk
 
 dir_scan.h
+
+# Created by https://www.gitignore.io/api/cmake
+
+### CMake ###
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+
+
+# End of https://www.gitignore.io/api/cmake
