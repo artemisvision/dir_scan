@@ -2,6 +2,7 @@
 name = "dir_scan"
 version = "0.1.0"
 authors = ["Eric Huff <thegreaterici@gmail.com>"]
+repository = "https://github.com/trollham/dir_scan"
 
 [lib]
 crate-type = ["cdylib"]
